@@ -1,0 +1,17 @@
+C:\Users\JULI\MyApiProject\ApiProjectConsole\obj\Debug\net8.0\ApiProjectConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JULI\MyApiProject\ApiProjectConsole\obj\Debug\net8.0\ApiProjectConsole.AssemblyInfoInputs.cache
+C:\Users\JULI\MyApiProject\ApiProjectConsole\obj\Debug\net8.0\ApiProjectConsole.AssemblyInfo.cs
+C:\Users\JULI\MyApiProject\ApiProjectConsole\obj\Debug\net8.0\ApiProjectConsole.csproj.CoreCompileInputs.cache
+C:\Users\JULI\MyApiProject\ApiProjectConsole\bin\Debug\net8.0\ApiProjectConsole.exe
+C:\Users\JULI\MyApiProject\ApiProjectConsole\bin\Debug\net8.0\ApiProjectConsole.deps.json
+C:\Users\JULI\MyApiProject\ApiProjectConsole\bin\Debug\net8.0\ApiProjectConsole.runtimeconfig.json
+C:\Users\JULI\MyApiProject\ApiProjectConsole\bin\Debug\net8.0\ApiProjectConsole.dll
+C:\Users\JULI\MyApiProject\ApiProjectConsole\bin\Debug\net8.0\ApiProjectConsole.pdb
+C:\Users\JULI\MyApiProject\ApiProjectConsole\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\JULI\MyApiProject\ApiProjectConsole\obj\Debug\net8.0\ApiProjectConsole.csproj.AssemblyReference.cache
+C:\Users\JULI\MyApiProject\ApiProjectConsole\obj\Debug\net8.0\ApiProjectConsole.csproj.CopyComplete
+C:\Users\JULI\MyApiProject\ApiProjectConsole\obj\Debug\net8.0\ApiProjectConsole.dll
+C:\Users\JULI\MyApiProject\ApiProjectConsole\obj\Debug\net8.0\refint\ApiProjectConsole.dll
+C:\Users\JULI\MyApiProject\ApiProjectConsole\obj\Debug\net8.0\ApiProjectConsole.pdb
+C:\Users\JULI\MyApiProject\ApiProjectConsole\obj\Debug\net8.0\ApiProjectConsole.genruntimeconfig.cache
+C:\Users\JULI\MyApiProject\ApiProjectConsole\obj\Debug\net8.0\ref\ApiProjectConsole.dll

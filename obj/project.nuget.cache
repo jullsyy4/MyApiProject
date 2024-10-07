@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ydH4lnMAjYRNvO9BH8EOg+PQfqGtWvMyguCsyA5JpChcDjRTq2N1LCg2JOQO2Py10eSM9VBgMf9H8VPBPOA0Ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JULI\\MyApiProject\\ApiProjectConsole\\ApiProjectConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JULI\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
